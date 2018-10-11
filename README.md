@@ -1,6 +1,6 @@
 # MutiltGPU_Unet2d
 > This is an examples of how to use mutilGPU training
-
+![](mutilgpu.png)
 ## How to Use
 当我们想用多块GPU来进行模型训练时，我们可以用Tensorflow很简单的实现。 
 我以细胞分割为例，具体实现步骤 
